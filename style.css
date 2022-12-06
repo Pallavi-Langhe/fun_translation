@@ -1,6 +1,10 @@
 body{
   background-color: #7F669D;
 }
+.container{
+  display:flex;
+  justify-content: center;
+}
 textarea{
     border:1px solid black;
     width:80%;
