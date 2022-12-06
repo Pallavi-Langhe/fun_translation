@@ -28,11 +28,10 @@ textarea{
 }
 .button{
   color: white;
-  width:20%;
+  width: 240px;
   padding-top: 20px;
   align-self: center;
   height: 3rem;
-  border-radius: 1rem;
   text-align: center;
  
   /*align-items: center;*/
