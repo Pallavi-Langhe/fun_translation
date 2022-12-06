@@ -1,5 +1,5 @@
 body{
-  background-color: #7F669D;
+  background-color: #FFADBC;
 }
 .container{
   display:flex;
@@ -13,7 +13,7 @@ textarea{
   width:80%;
   margin:1rem 2rem 1rem 1rem;
   padding:1rem 2rem 2rem 2rem;
-  background-color: #D989B5;
+  background-color: #BA94D1;
 }
 #output{
     border:1px solid black;
@@ -21,7 +21,7 @@ textarea{
     width:80%;
     margin:1rem 2rem 1rem 1rem;
     padding:1rem 2rem 2rem 2rem;
-    background-color: #DEBACE;
+    background-color: #BA94D1;
    
 }
 .button{
@@ -40,7 +40,7 @@ textarea{
   text-align: center;
   cursor: pointer;
   outline: none;
-  color: #BA94D1;
+  color: #7F669D;
   background-color: #82bccf;
   border: none;
   border-radius: 1rem;
