@@ -4,7 +4,7 @@ body{
 .container{
   display:flex;
   justify-content: center;
-  flex-direction: row;
+  flex-direction: column;
 }
 textarea{
   border:1px solid black;
