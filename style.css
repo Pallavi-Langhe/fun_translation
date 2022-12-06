@@ -42,14 +42,14 @@ textarea{
   text-align: center;
   cursor: pointer;
   outline: none;
-  color: #7F669D;
-  background-color: #82bccf;
+  color: #aa73ec;
+  background-color: #442569;
   border: none;
   border-radius: 1rem;
   
 }
 
-.button:hover {background-color: #0D4C92}
+.button:hover {background-color: #4e7bad}
 
 .button:active {
   background-color:#8856c9;
