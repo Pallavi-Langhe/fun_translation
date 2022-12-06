@@ -28,7 +28,6 @@ textarea{
 }
 .button{
   color: white;
-  width: 4000px;
   padding-top: 15px;
   padding-bottom: 15px;
   align-self: center;
@@ -38,8 +37,8 @@ textarea{
   /*align-items: center;*/
 }
 .button {
-  
-  padding: 1rem 2rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
   text-align: center;
   cursor: pointer;
   outline: none;
