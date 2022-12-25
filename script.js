@@ -1,9 +1,3 @@
-//input
-//var username=prompt("Give Me Your Name")
-//processing
-//var welcomeMessage="this script works! "+username
-//script
-//alert(welcomeMessage);
 var btnTranslate= document.querySelector(".button");
 //console.log(btnTranslate)
 var txtInput=document.querySelector("#txt-input");
@@ -12,7 +6,7 @@ var outputDiv=document.querySelector("#output");
 var serverURL = "https://api.funtranslations.com/translate/ferb-latin.json"
 	
 
-//outputDiv.innerText="sakshi"
+
 //console.log(output)
 //console.log(txtInput)
 function getTranslationURL(text){
